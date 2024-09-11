@@ -56,7 +56,7 @@
 
 /* The behavior for incrementing and the prefix */
 .toch1:before {
-  content: counter(first) ". " ;
+  content: " " ;
   counter-increment: first;
 }
 
